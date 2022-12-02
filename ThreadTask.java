@@ -10,4 +10,6 @@ public static void main(String[] args) {
     task.run();
     System.out.println("test");
     System.out.println("test");
+    System.out.println("test");
 }
+
